@@ -62,7 +62,7 @@ The p value is 0.1589 which is greater than 0.05 and is therfore not significant
 
 ![](https://github.com/Akshaya-Kamble/MechaCar_Statistical_Analysis/blob/main/Reference%20Images/t_test_lot3.PNG)
 
-Looking at the p value for all the manufacturing lots together is greater than 0.05 and is not significant so the null hypothesis can be accepted.Similarly the null hypothesis for lot1 and lot 3 can also be accepted as the p values are also greater that 0.05. The null hypothesis for lot2 can be rejected as the p value is less than 0.05 
+As a result, the p-value of all 3 lots is greater than 0.05. Also, lot 1 with positive t=8.7161 and lot 2 with positive t=3.6739.  
 
 ## Deliverable 4
 ## Study Design: MechaCar vs Competition
